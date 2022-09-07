@@ -1,4 +1,4 @@
-# SeedChecker
+# Mnemonic words checker for Metamask, Tronlink, Phantom
 
 Run "SeedUnscrambler.exe" and enjoy!
 
