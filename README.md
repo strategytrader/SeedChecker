@@ -2,4 +2,4 @@
 
 Run "SeedUnscrambler.exe" and enjoy!
 
-![image](https://user-images.githubusercontent.com/107212336/188888047-0df71ea2-cd44-4998-a6ba-5d55475c3c7c.png)
+![image](https://user-images.githubusercontent.com/107212336/189399605-59fea956-e76c-44d0-8c63-12daac72ed06.png)
